@@ -1,0 +1,21 @@
+student_id,gender,math_score,reading_score,writing_score,parental_education,test_preparation_course
+1,female,72,80,78,bachelor's degree,completed
+2,male,69,65,60,associate's degree,none
+3,female,90,95,93,master's degree,completed
+4,male,47,56,44,high school,none
+5,female,76,78,75,some college,completed
+6,male,54,52,50,associate's degree,none
+7,female,88,92,90,bachelor's degree,completed
+8,male,40,43,39,high school,none
+9,female,66,70,68,some college,none
+10,male,61,60,58,some high school,completed
+11,female,80,85,82,master's degree,completed
+12,male,55,58,54,some college,none
+13,female,73,78,76,associate's degree,none
+14,male,49,52,48,high school,none
+15,female,85,90,88,bachelor's degree,completed
+16,male,60,62,59,some high school,none
+17,female,78,80,79,some college,completed
+18,male,52,50,47,associate's degree,none
+19,female,91,96,94,master's degree,completed
+20,male,45,48,44,high school,none
